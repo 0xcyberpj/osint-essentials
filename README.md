@@ -4,16 +4,21 @@
 
 **The following resources are related to Osint**
 
-## ` Make Sure To Learn The Methodologies '
+## ` Make Sure To Learn The Methodologies `
 
 Useful Websites & Resources : 
 
+ https://start.me/p/DPYPMz/the-ultimate-osint-collection
 
 aware-online : https://www.aware-online.com/en/osint-tools/
 
 Belling-Cat-OSINT-collection : https://start.me/p/ELXoK8/bellingcat-osint-landscape
 
+https://github.com/OhShINT/ohshint.gitbook.io/tree/main/Lists_of_OSINT_Web_Resources
+
 OSINT-addons-Collection : https://start.me/p/nRQNRb/addons
+
+https://github.com/OhShINT/ohshint.gitbook.io
 
 Databases-OSINT : https://start.me/p/QRENnO/databases
 
@@ -30,7 +35,7 @@ Image-reverese-forensic : http://fotoforensics.com/
 
 ### 1. Sock Puppet
 
-Sock puppets are nothing but detailed created fake social media accounts to research in OSINT,
+>Sock puppets are nothing but detailed created fake social media accounts to research in OSINT,
 without giving up the true identity. Sock Puppets are basically aliases,
 fictitious persona profiles created by someone else with specific goals in mind and is part of an OSINT Social Engineering technique
 
@@ -57,8 +62,10 @@ Virtual CC/DC :https://privacy.com/
 
 ETC
 
+-----
 
-1. Search Engine OSINT :
+
+## 1. Search Engine OSINT :
 
 1.https://www.google.com/
 
@@ -75,20 +82,17 @@ intext:tamilctf site:github.com
 6.https://duckduckgo.com/
 
 
-2. IMINT ( Imagery OSINT)
+## 2. IMINT ( Imagery OSINT)
 
 1.https://images.google.com
-
 2.https://tineye.com/ (Best Reverse Image Search tool)
-
 3.http://exif.regex.info/exif.cgi
-
 4.https://www.geoguessr.com
-
 5.https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
 
+---
 
-3. Email OSINT
+## 3. Email OSINT
 
 1.https://hunter.io (Organisation email verify, gather)
 2.https://phonebook.cz/
@@ -101,21 +105,20 @@ intext:tamilctf site:github.com
 9.https://thatsthem.com
 10.https://github.com/m4ll0k/infoga
 
-3.1 Email OSINT TOOLS 
+### 3.1 Email OSINT TOOLS 
 
-1. Ghunt   (Github)
-2. H8mail (Github)
-3. Mosint (Github)
-4. Protosint (Github)
-5. Buster (Github)
-6.Reconspider (Github)
-7.Infoga  (Github)
+1. Ghunt   (https://github.com/mxrch/GHunt)
+2. H8mail (https://github.com/khast3x/h8mail)
+3. Mosint (https://github.com/alpkeskin/mosint)
+4. Protosint (https://github.com/pixelbubble/ProtOSINT)
+5. Buster (https://github.com/sham00n/buster)
+6.Reconspider (https://github.com/bhavsec/reconspider)
+7.Infoga  (https://github.com/m4ll0k/infoga)
 
+---
 
+## 4.Password OSINT 
 
-
-
-4.Password OSINT 
 1.https://dehashed.com/
 2.https://weleakinfo.to/v2/
 3.https://leakcheck.io/
@@ -129,7 +132,7 @@ intext:tamilctf site:github.com
 11.https://lnkd.in/gMKpTef
 
 
-5. Username OSINT
+## 5. Username OSINT
 
 1.https://namechk.com/
 2.https://whatsmyname.app/
@@ -139,7 +142,7 @@ intext:tamilctf site:github.com
 6.https://instantusername.com/
 8.https://keybase.io
 
-5.1 Tools
+### 5.1 Tools
 
 1.sherlock (Github)
 2.Mosint  (Github)
