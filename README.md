@@ -4,7 +4,7 @@
 
 **The following resources are related to Osint**
 
-## ` Make Sure To Learn The Methodologies `
+# ` Make Sure To Learn The Methodologies `
 
 Useful Websites & Resources : 
 
@@ -121,18 +121,18 @@ intext:tamilctf site:github.com
 ### 3.1 Email OSINT TOOLS 
 
 1. Ghunt   (https://github.com/mxrch/GHunt)
-2. 
-3. H8mail (https://github.com/khast3x/h8mail)
-4. 
-5. Mosint (https://github.com/alpkeskin/mosint)
-6. 
-7. Protosint (https://github.com/pixelbubble/ProtOSINT)
-8. 
-9. Buster (https://github.com/sham00n/buster)
-10. 
-11.Reconspider (https://github.com/bhavsec/reconspider)
 
-12.Infoga  (https://github.com/m4ll0k/infoga)
+2. H8mail (https://github.com/khast3x/h8mail)
+
+3. Mosint (https://github.com/alpkeskin/mosint)
+
+4. Protosint (https://github.com/pixelbubble/ProtOSINT)
+
+5. Buster (https://github.com/sham00n/buster)
+
+6. Reconspider (https://github.com/bhavsec/reconspider)
+
+7.Infoga  (https://github.com/m4ll0k/infoga)
 
 ---
 
