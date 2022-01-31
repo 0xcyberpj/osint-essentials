@@ -31,6 +31,8 @@
 
 11.[Osint stash](https://twitter.com/OsintStash)
 
+12.[OSINT.best](https://osint.best)
+
 -----
 
 
@@ -94,11 +96,19 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 10.https://publicwww.
 
+11.https://www.mojeek.com/
+
+12.https://www.startpage.com/sp/search
+
+13.[LinkedIN Search](https://cse.google.com/cse?cx=009462381166450434430:yhgelicr8sp&q=more:p:metatags-og_title:sourcer*recruiter#gsc.tab=0&gsc.sort=)
+
+14.https://gibiru.com/
+
 
 
 #### 2.1  Tools
 
-1.[Goohak](https://github.com/1N3/Goohak/
+1.[Goohak](https://github.com/1N3/Goohak/)
 
 2.[GoogD0rker](https://github.com/ZephrFish/GoogD0rker/)
 
@@ -109,11 +119,6 @@ fictitious persona profiles created by someone else with specific goals in mind 
 - https://www.exploit-db.com/google-hacking-database 
 
 - https://github.com/sushiwushi/bug-bounty-dorks
-
-
-
-
-
 
 ----
 
@@ -130,7 +135,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 5.https://pimeyes.com/en (Face recognition reverse image) 
 
-**Reverse Image Search Add-ons:**
+**`Reverse Image Search Add-ons:`**
 
 6.https://addons.mozilla.org/en-US/firefox/addon/search_by_image/ ( Awesome RI Search Addon)
 
@@ -159,8 +164,6 @@ fictitious persona profiles created by someone else with specific goals in mind 
 8.https://www.mailshunt.com/
 
 9.https://thatsthem.com
-
-10.https://github.com/m4ll0k/infoga
 
 
 ### 4.1 Email OSINT TOOLS 
@@ -222,29 +225,32 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 8.https://keybase.io
 
+9.https://one-plus.github.io/EmailUsername
+
+
 ### 6.1 Tools
 
-1.sherlock (Github)
+1.sherlock https://github.com/sherlock-project/sherlock
 
-2.Mosint  (Github)
+2.Mosint  https://github.com/alpkeskin/mosint
 
 3.Nexfil https://github.com/thewhiteh4t/nexfil
 
-4.Miagrate https://github.com/soxoj/maigret
+4.Miagrate https://github.com/soxoj/maigret (Best Tool <3 No API ,`An Advamced Sherlock`)
+
+`Example Output`:
+![image](https://user-images.githubusercontent.com/72292872/151751186-f2329e6d-b3f3-43bb-be19-e6d968e519fd.png)
 
 5.Whatsmyname https://github.com/webbreacher/whatsmyname
 
 
 ----
 
-
 ## 7. GEOINT
 
 1.https://www.geoguessr.com
-
-  ----
   
-  1..https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+-https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
   
   
  ## 8. Telegram Engines/Groups
