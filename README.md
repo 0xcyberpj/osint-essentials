@@ -1,34 +1,35 @@
-# Notes-osint
+                                                      TamiCTF - OSINT ESSENTIALS
+- Paul Jeremiah (30/01/2022)
 
-### Get Some OSINT Resources
+![image](https://user-images.githubusercontent.com/72292872/151745958-f2c4cd31-c150-4bb3-93e1-f2907f0aa1fe.png)
 
-**The following resources are related to Osint**
 
-# ` Make Sure To Learn The Methodologies `
 
-Useful Websites & Resources : 
+# ` Make Sure To Know The Methodologies `
 
- https://start.me/p/DPYPMz/the-ultimate-osint-collection
+##### Websites & Resources : 
 
-aware-online : https://www.aware-online.com/en/osint-tools/
+1.[Ultimate OSINT Collenction](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 
-Belling-Cat-OSINT-collection : https://start.me/p/ELXoK8/bellingcat-osint-landscape
+2.[aware-online](https://www.aware-online.com/en/osint-tools/)
 
-https://github.com/OhShINT/ohshint.gitbook.io/tree/main/Lists_of_OSINT_Web_Resources
+3.[Belling-Cat-OSINT-collection](https://start.me/p/ELXoK8/bellingcat-osint-landscape)
 
-OSINT-addons-Collection : https://start.me/p/nRQNRb/addons
+4.[Ohshint Resources](https://github.com/OhShINT/ohshint.gitbook.io)
 
-https://github.com/OhShINT/ohshint.gitbook.io
+5.[OSINT-addons-Collection](https://start.me/p/nRQNRb/addons)
 
-Databases-OSINT : https://start.me/p/QRENnO/databases
+6.[Ohshint-Gitbook](https://github.com/OhShINT/ohshint.gitbook.io)
 
-OSINT-collection-of-databases : https://technisette.com/p/databases
+7.[Databases-INT](https://start.me/p/QRENnO/databases)
 
-OSINT-SearchEngine : https://start.me/p/b56G5Q/search-engines
+8.[OSINT-collection-of-databases](https://technisette.com/p/databases)
 
-HUNGARIA-OSINT-COLLECTION : https://start.me/p/kxGLzd/hun-osint
+9.[OSINT-SearchEngine](https://start.me/p/b56G5Q/search-engines)
 
-Image-reverese-forensic : http://fotoforensics.com/
+10.[HUNGARIA-OSINT-COLLECTION](https://start.me/p/kxGLzd/hun-osint)
+
+11.[Osint stash](https://twitter.com/OsintStash)
 
 -----
 
@@ -40,10 +41,9 @@ without giving up the true identity. Sock Puppets are basically aliases,
 fictitious persona profiles created by someone else with specific goals in mind and is part of an OSINT Social Engineering technique
 
 
-"The art of anonymous Puppet show on the internet"
+                                            The art of anonymous Puppet show on the internet
 
-
-1.https://jakecreps.com/2018/11/02/sock-puppets/
+1.https://hackernoon.com/how-to-make-sock-puppet-accounts-for-osint-in-2021-12r33gs 
 
 2.https://www.secjuice.com/the-art-of-the-sock-osint-humint/
 
@@ -52,24 +52,29 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 ---
 
-### 2. Source for Sock Puppet
+### 1.2  Source for Sock Puppet
 
-Generat Fake identity : https://www.fakenamegenerator.com/
+1.Generat Fake identity : https://www.fakenamegenerator.com/
 
-AI Generated Images :https://www.thispersondoesnotexist.com/
+2.Random Fake id Dcode-fr : https://www.dcode.fr/fake-id-generator
 
-Virtual CC/DC :https://privacy.com/
+3.Fake ID Gen : https://www.elfqrin.com/fakeid.php
 
-ETC
+4.AI Generated Images :https://www.thispersondoesnotexist.com/
+
+5.Virtual CC/DC :https://privacy.com/
+
+6.Creating Secure Email : https://protonmail.com/
 
 -----
 
-
-## 1. Search Engine OSINT :
+## 2. Search Engine For Intelligence :
 
 1.https://www.google.com/
 
-intext:tamilctf site:github.com
+`intext:tamilctf site:github.com`
+
+`site:drive.google.com forensics`
 
 2.https://www.google.com/advanced_search (Google Dorks By GOOGLE :) )
 
@@ -81,22 +86,61 @@ intext:tamilctf site:github.com
 
 6.https://duckduckgo.com/
 
+7.https://Shodan.io 
 
-## 2. IMINT ( Imagery OSINT)
+8.https://vulners.com
 
-1.https://images.google.com
+9.https://www.zoomeye.org
+
+10.https://publicwww.
+
+
+
+#### 2.1  Tools
+
+1.[Goohak](https://github.com/1N3/Goohak/
+
+2.[GoogD0rker](https://github.com/ZephrFish/GoogD0rker/)
+
+- https://gist.github.com/jhaddix/77253cea49bf4bd4bfd5d384a37ce7a4#file-github-bash-generated-search-links-from-hunter-sh
+
+- https://pentest-tools.com/information-gathering/google-hacking
+
+- https://www.exploit-db.com/google-hacking-database 
+
+- https://github.com/sushiwushi/bug-bounty-dorks
+
+
+
+
+
+
+----
+
+
+## 3. IMINT ( Imagery intelligence)
+
+1.https://images.google.com ( Reverse Image Search)
 
 2.https://tineye.com/ (Best Reverse Image Search tool)
 
-3.http://exif.regex.info/exif.cgi
+3.http://exif.regex.info/exif.cgi( Meta Data)
 
-4.https://www.geoguessr.com
+4.https://scanner.deepware.ai/  (Face Deepfake Recog)
 
-5.https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+5.https://pimeyes.com/en (Face recognition reverse image) 
+
+**Reverse Image Search Add-ons:**
+
+6.https://addons.mozilla.org/en-US/firefox/addon/search_by_image/ ( Awesome RI Search Addon)
+
+7.https://addons.mozilla.org/en-US/firefox/addon/yandex-image-search-romkaq/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search (yandex Image Search)
+
+8.https://www.invid-project.eu/tools-and-services/invid-verification-plugin/ ( Plugin for Image/ Video Duplicheck/Fake  Image Analysis)
 
 ---
 
-## 3. Email OSINT
+## 4. Email OSINT
 
 1.https://hunter.io (Organisation email verify, gather)
 
@@ -106,11 +150,11 @@ intext:tamilctf site:github.com
 
 4.https://tools.verifyemailaddress.io/ (Email Verifier)
 
-5.https://tools.epieos.com/email.php
+5.https://tools.epieos.com/email.php ( Gmail / Lookup )
 
 6.https://www.aware-online.com/en/osint-tools/username-tools/
 
-7.https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en (extension)
+7.https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en (extension )
 
 8.https://www.mailshunt.com/
 
@@ -118,7 +162,8 @@ intext:tamilctf site:github.com
 
 10.https://github.com/m4ll0k/infoga
 
-### 3.1 Email OSINT TOOLS 
+
+### 4.1 Email OSINT TOOLS 
 
 1. Ghunt   (https://github.com/mxrch/GHunt)
 
@@ -132,11 +177,11 @@ intext:tamilctf site:github.com
 
 6. Reconspider (https://github.com/bhavsec/reconspider)
 
-7.Infoga  (https://github.com/m4ll0k/infoga)
+7. Infoga  (https://github.com/m4ll0k/infoga)
 
 ---
 
-## 4.Password OSINT 
+## 5.Password OSINT 
 
 1.https://dehashed.com/
 
@@ -161,7 +206,7 @@ intext:tamilctf site:github.com
 11.https://lnkd.in/gMKpTef
 
 
-## 5. Username OSINT
+## 6. Username OSINT
 
 1.https://namechk.com/
 
@@ -177,14 +222,37 @@ intext:tamilctf site:github.com
 
 8.https://keybase.io
 
-### 5.1 Tools
+### 6.1 Tools
 
 1.sherlock (Github)
+
 2.Mosint  (Github)
 
+3.Nexfil https://github.com/thewhiteh4t/nexfil
+
+4.Miagrate https://github.com/soxoj/maigret
+
+5.Whatsmyname https://github.com/webbreacher/whatsmyname
 
 
+----
 
 
+## 7. GEOINT
 
+1.https://www.geoguessr.com
+
+  ----
   
+  1..https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+  
+  
+ ## 8. Telegram Engines/Groups
+ 
+ 
+ 1.https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0
+ 
+ 2.https://t.co/bBt6coIoyp
+ 
+ 3.https://www.combot.org/telegram/top/groups?lng=nl
+ 
