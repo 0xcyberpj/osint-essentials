@@ -104,6 +104,8 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 14.https://gibiru.com/
 
+15.https://t.co/Qr92lU6AgH
+
 
 
 #### 2.1  Tools
@@ -262,3 +264,16 @@ fictitious persona profiles created by someone else with specific goals in mind 
  
  3.https://www.combot.org/telegram/top/groups?lng=nl
  
+
+## 9 . Twitter Acoounts 
+
+```
+@OSINTtechniques 
+@OsintCurious 
+@theosint 
+@OsintStash 
+@dutch_osintguy 
+@WebBreacher 
+@InfoSecSherpa 
+@bellingcat
+```
