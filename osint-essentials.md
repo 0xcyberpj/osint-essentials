@@ -33,6 +33,12 @@
 
 12.[OSINT.best](https://osint.best)
 
+13.[osint-pros](https://stateofosint.com/)
+
+14. [Legend `sector035`](https://sector035.nl/) and [Week in OSINT Medium Edition](https://medium.com/@sector035)
+
+15.[Hackers-arise](https://www.hackers-arise.com/osint)
+
 -----
 
 
@@ -88,7 +94,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 6.https://duckduckgo.com/
 
-7.https://Shodan.io 
+7.https://Shodan.io  & https://natlas.io
 
 8.https://vulners.com
 
@@ -167,6 +173,8 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 9.https://thatsthem.com
 
+10.https://snov.io/email-finder
+
 
 ### 4.1 Email OSINT TOOLS 
 
@@ -211,7 +219,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 11.https://lnkd.in/gMKpTef
 
 
-## 6. Username OSINT
+## 6. Username/People OSINT
 
 1.https://namechk.com/
 
@@ -229,6 +237,15 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 9.https://one-plus.github.io/EmailUsername
 
+10.https://www.opensanctions.org (uff, open database!)
+
+![image](https://user-images.githubusercontent.com/72292872/151758603-f289de8e-7f88-4d5d-bcc7-2d2ee1cea503.png)
+
+Juicy++
+![image](https://user-images.githubusercontent.com/72292872/151758939-7101c518-15ea-4ef1-bd42-384fe202fa92.png)
+
+
+
 
 ### 6.1 Tools
 
@@ -238,7 +255,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 3.Nexfil https://github.com/thewhiteh4t/nexfil
 
-4.Miagrate https://github.com/soxoj/maigret (Best Tool <3 No API ,`An Advamced Sherlock`)
+4.Miagrate https://github.com/soxoj/maigret (`Best Too` <3 No API` ,`An Advanced Sherlock!`)
 
 `Example Output`:
 ![image](https://user-images.githubusercontent.com/72292872/151751186-f2329e6d-b3f3-43bb-be19-e6d968e519fd.png)
@@ -253,6 +270,21 @@ fictitious persona profiles created by someone else with specific goals in mind 
 1.https://www.geoguessr.com
   
 -https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+
+2.https://github.com/ngageoint
+
+3.https://www.geocreepy.com/ ( currently not maintained)
+
+4.https://mixkit.co/free-drone-footage/ [Drone Angle Footages while GEOINT]
+
+5.https://www.airvuz.com/
+
+
+6.https://earthviewer360.com (Google Street view+map)
+![image](https://user-images.githubusercontent.com/72292872/151759448-0d52000b-8174-47c7-8283-493d5daa0a93.png)
+
+7.https://cleanup.pictures/ (When you need to reverse image without person or something)
+
   
   
  ## 8. Telegram Engines/Groups
@@ -264,8 +296,10 @@ fictitious persona profiles created by someone else with specific goals in mind 
  
  3.https://www.combot.org/telegram/top/groups?lng=nl
  
+ - https://www.cqcore.uk/telegram-fundamentals/
+ 
 
-## 9 . Twitter Acoounts 
+## 9 . Twitter Acoounts  to Follow
 
 ```
 @OSINTtechniques 
@@ -276,8 +310,40 @@ fictitious persona profiles created by someone else with specific goals in mind 
 @WebBreacher 
 @InfoSecSherpa 
 @bellingcat
+@ph055a
+@IntelTechniques
+@OSINTtechniques
+@osintme
+@OsintSupport
+@OsintStash
+@_IntelligenceX
+@BenDoBrown
+@C4pr1c0
+@hacktoria
+@ChristinaLekati
+@humanhacker
+@EliotHiggins
+@hatless1der
+@bayer_julia
+@jms_dot_py
+@WebBreacher
+@Ginsberg5150
+@dutch_osintguy
+@osintcombine
+ 
+
 ```
 
+
+## 10 . Docker Tools!
+
+
+
+## Misc
+
+1. https://sketchfab.com/tqyw/collections/human-face
+
+1.
 
 ![image](https://user-images.githubusercontent.com/72292872/151751885-ea08aec8-c631-4bf4-91ea-bffd1133cd6f.png)
 
