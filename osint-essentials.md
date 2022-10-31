@@ -212,11 +212,9 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 8.https://intelx.io
 
-9.https://leakpeek.com
+9. https://leakpeek.com
 
-10.https://cryptome.org
-
-11.https://lnkd.in/gMKpTef
+10. https://lnkd.in/gMKpTef
 
 
 ## 6. Username/People OSINT
