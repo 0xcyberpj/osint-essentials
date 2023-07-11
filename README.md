@@ -201,6 +201,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 2.https://weleakinfo.to/v2/
 
 3.https://leakcheck.io/
+
 ![image](https://github.com/0xcyberpj/osint-essentials/assets/72292872/f512ead1-e708-431b-96f7-9fc2e106a977)
 
 
@@ -214,8 +215,9 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 8.https://intelx.io
 ![image](https://github.com/0xcyberpj/osint-essentials/assets/72292872/a48fe1cf-b11a-4971-83fe-57b42ed9ee71)
+
 **Gather info from there first**
-1.
+
 
 
 9. https://leakpeek.com
@@ -227,6 +229,7 @@ fictitious persona profiles created by someone else with specific goals in mind 
 
 12. https://leak-lookup.com/
     ![image](https://github.com/0xcyberpj/osint-essentials/assets/72292872/8a3c42ba-01b9-4cba-a2b8-4cffc48abdcf)
+    
   **API SUPPORT**
     ```
     curl 'https://leak-lookup.com/api/search' -d 'key=368d539f319eaf5bfbe72356cf63636a&type=email_address&query=admin@gmail.com'
