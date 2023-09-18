@@ -325,43 +325,94 @@ Juicy++
 
 ## 9 . Twitter Acoounts  to Follow
 
-```
-@OSINTtechniques 
-@OsintCurious 
-@theosint 
-@OsintStash 
-@dutch_osintguy 
-@WebBreacher 
-@InfoSecSherpa 
-@bellingcat
-@ph055a
-@IntelTechniques
-@OSINTtechniques
-@osintme
-@OsintSupport
-@OsintStash
-@_IntelligenceX
-@BenDoBrown
-@C4pr1c0
-@hacktoria
-@ChristinaLekati
-@humanhacker
-@EliotHiggins
-@hatless1der
-@bayer_julia
-@jms_dot_py
-@WebBreacher
-@Ginsberg5150
-@dutch_osintguy
-@osintcombine
-@JordanWildon
-
-```
+1. [twitter.com/OSINTtechniques](https://twitter.com/OSINTtechniques)
+2. [twitter.com/OsintCurious](https://twitter.com/OsintCurious)
+3. [twitter.com/theosint](https://twitter.com/theosint)
+4. [twitter.com/OsintStash](https://twitter.com/OsintStash)
+5. [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy)
+6. [twitter.com/WebBreacher](https://twitter.com/WebBreacher)
+7. [twitter.com/InfoSecSherpa](https://twitter.com/InfoSecSherpa)
+8. [twitter.com/bellingcat](https://twitter.com/bellingcat)
+9. [twitter.com/ph055a](https://twitter.com/ph055a)
+10. [twitter.com/IntelTechniques](https://twitter.com/IntelTechniques)
+11. [twitter.com/osintme](https://twitter.com/osintme)
+12. [twitter.com/OsintSupport](https://twitter.com/OsintSupport)
+13. [twitter.com/OsintStash](https://twitter.com/OsintStash)
+14. [twitter.com/_IntelligenceX](https://twitter.com/_IntelligenceX)
+15. [twitter.com/BenDoBrown](https://twitter.com/BenDoBrown)
+16. [twitter.com/C4pr1c0](https://twitter.com/C4pr1c0)
+17. [twitter.com/hacktoria](https://twitter.com/hacktoria)
+18. [twitter.com/ChristinaLekati](https://twitter.com/ChristinaLekati)
+19. [twitter.com/humanhacker](https://twitter.com/humanhacker)
+20. [twitter.com/EliotHiggins](https://twitter.com/EliotHiggins)
+21. [twitter.com/hatless1der](https://twitter.com/hatless1der)
+22. [twitter.com/bayer_julia](https://twitter.com/bayer_julia)
+23. [twitter.com/jms_dot_py](https://twitter.com/jms_dot_py)
+24. [twitter.com/WebBreacher](https://twitter.com/WebBreacher)
+25. [twitter.com/Ginsberg5150](https://twitter.com/Ginsberg5150)
+26. [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy)
+27. [twitter.com/osintcombine](https://twitter.com/osintcombine)
+28. [twitter.com/JordanWildon](https://twitter.com/JordanWildon)
+29. [twitter.com/AIBot_CdH](https://twitter.com/AIBot_CdH)
+30. [twitter.com/aimeryparekh](https://twitter.com/aimeryparekh)
+31. [twitter.com/bayer_julia](https://twitter.com/bayer_julia)
+32. [twitter.com/BenDoBrown](https://twitter.com/BenDoBrown)
+33. [twitter.com/braingain](https://twitter.com/braingain)
+34. [twitter.com/capitanosint](https://twitter.com/capitanosint)
+35. [twitter.com/ChristinaLekati](https://twitter.com/ChristinaLekati)
+36. [twitter.com/CiberGlitch](https://twitter.com/CiberGlitch)
+37. [twitter.com/cibernicola_es](https://twitter.com/cibernicola_es)
+38. [twitter.com/cyb_detective](https://twitter.com/cyb_detective)
+39. [twitter.com/CynOsint](https://twitter.com/CynOsint)
+40. [twitter.com/C_3PJoe](https://twitter.com/C_3PJoe)
+41. [twitter.com/DailyOsint](https://twitter.com/DailyOsint)
+42. [twitter.com/dude_lynn](https://twitter.com/dude_lynn)
+43. [twitter.com/dutch_osintguy](https://twitter.com/dutch_osintguy)
+44. [twitter.com/eduSatoe](https://twitter.com/eduSatoe)
+45. [twitter.com/ex16x41](https://twitter.com/ex16x41)
+46. [twitter.com/GONZOs_int](https://twitter.com/GONZOs_int)
+47. [twitter.com/Gralhix](https://twitter.com/Gralhix)
+48. [twitter.com/hatless1der](https://twitter.com/hatless1der)
+49. [twitter.com/illyrian598](https://twitter.com/illyrian598)
+50. [twitter.com/IntelTechniques](https://twitter.com/IntelTechniques)
+51. [twitter.com/intel_inquirer](https://twitter.com/intel_inquirer)
+52. [twitter.com/IvanoSomaini](https://twitter.com/IvanoSomaini)
+53. [twitter.com/ivanPorMor](https://twitter.com/ivanPorMor)
+54. [twitter.com/JezerFerreira](https://twitter.com/JezerFerreira)
+55. [twitter.com/jordanwildon](https://twitter.com/jordanwildon)
+56. [twitter.com/JorgeWebsec](https://twitter.com/JorgeWebsec)
+57. [twitter.com/KAS_stoner](https://twitter.com/KAS_stoner)
+58. [twitter.com/kennbroorg](https://twitter.com/kennbroorg)
+59. [twitter.com/kirbstr](https://twitter.com/kirbstr)
+60. [twitter.com/ManuelBot59](https://twitter.com/ManuelBot59)
+61. [twitter.com/matt0177](https://twitter.com/matt0177)
+62. [twitter.com/MayhemDayOne](https://twitter.com/MayhemDayOne)
+63. [twitter.com/MrCl0wnLab](https://twitter.com/MrCl0wnLab)
+64. [twitter.com/navlys_](https://twitter.com/navlys_)
+65. [twitter.com/nixintel](https://twitter.com/nixintel)
+66. [twitter.com/osintcombine](https://twitter.com/osintcombine)
+67. [twitter.com/OsintCurious](https://twitter.com/OsintCurious)
+68. [twitter.com/OSINT_Research](https://twitter.com/OSINT_Research)
+69. [twitter.com/OSINT_Tactical](https://twitter.com/OSINT_Tactical)
+70. [twitter.com/p1ngul1n0](https://twitter.com/p1ngul1n0)
+71. [twitter.com/palenath](https://twitter.com/palenath)
+72. [twitter.com/robertesell](https://twitter.com/robertesell)
+73. [twitter.com/SchiphorstSkip](https://twitter.com/SchiphorstSkip)
+74. [twitter.com/Sector035](https://twitter.com/Sector035)
+75. [twitter.com/SEINT_pl](https://twitter.com/SEINT_pl)
+76. [twitter.com/sinwindie](https://twitter.com/sinwindie)
+77. [twitter.com/sprp77](https://twitter.com/sprp77)
+78. [twitter.com/Steven_DFS](https://twitter.com/Steven_DFS)
+79. [twitter.com/UKOSINT](https://twitter.com/UKOSINT)
+80. [twitter.com/UnleashedOsint](https://twitter.com/UnleashedOsint)
+81. [twitter.com/VAguileraDiaz](https://twitter.com/VAguileraDiaz)
+82. [twitter.com/WebBreacher](https://twitter.com/WebBreacher)
+83. [twitter.com/WebInvestig](https://twitter.com/WebInvestig)
+84. [twitter.com/WHInspector](https://twitter.com/WHInspector)
+85. [twitter.com/wondersmith_rae](https://twitter.com/wondersmith_rae)
 
 
 ## 10 . Docker Tools!
-
-
 
 ## Misc
 
